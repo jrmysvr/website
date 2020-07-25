@@ -8,6 +8,7 @@
 
 > cd website
 
+> git submodule init
 > git submodule update --recursive --remote
 
 _(The current theme is used as a submodule)_
