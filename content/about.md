@@ -2,8 +2,7 @@
 title = "About me"
 +++
 
-## Stuff I like in no particular order
- - Robots
- - Artificial Intelligence
- - Rock Climbing
- - Baking cookies and zopf
+I'm a Software / Systems Engineer (I program and play with electronics) at [Fotokite](www.fotokite.com)
+
+I live in Zürich, Switzerland.
+
