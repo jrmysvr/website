@@ -14,9 +14,9 @@ title = "Cool stuff"
 
 - [Ben Katz blog](http://build-its-inprogress.blogspot.com/)
     - [Biomimetics](http://biomimetics.mit.edu/)
-- [Mellow - Youtube Channel](https://www.youtube.com/channel/UC5jRwTUqG15l-BcqQHbVFtA)
-- [Adam Savage's Tested - Youtube Channel](https://www.youtube.com/channel/UCiDJtJKMICpb9B1qf7qjEOA)
-- [BPS Space - Youtube Channel](https://www.youtube.com/channel/UCILl8ozWuxnFYXIe2svjHhg)
-- [James Bruton - Youtube Channel](https://www.youtube.com/user/jamesbruton)
-- [Ben Eater - Youtube Channel](https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA)
+- [Mellow - YouTube Channel](https://www.youTube.com/channel/UC5jRwTUqG15l-BcqQHbVFtA)
+- [Adam Savage's Tested - YouTube Channel](https://www.youTube.com/channel/UCiDJtJKMICpb9B1qf7qjEOA)
+- [BPS Space - YouTube Channel](https://www.youTube.com/channel/UCILl8ozWuxnFYXIe2svjHhg)
+- [James Bruton - YouTube Channel](https://www.youTube.com/user/jamesbruton)
+- [Ben Eater - YouTube Channel](https://www.youTube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA)
 
