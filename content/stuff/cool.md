@@ -18,3 +18,5 @@ title = "Cool stuff"
 - [Adam Savage's Tested - Youtube Channel](https://www.youtube.com/channel/UCiDJtJKMICpb9B1qf7qjEOA)
 - [BPS Space - Youtube Channel](https://www.youtube.com/channel/UCILl8ozWuxnFYXIe2svjHhg)
 - [James Bruton - Youtube Channel](https://www.youtube.com/user/jamesbruton)
+- [Ben Eater - Youtube Channel](https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA)
+
