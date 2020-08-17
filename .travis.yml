@@ -18,11 +18,9 @@ script:
 # If you are using a different folder than `public` for the output directory, you will
 # need to change the `zola` command and the `ghp-import` path
 after_success: |
-  [ $TRAVIS_BRANCH = code ] &&
+  [ $TRAVIS_BRANCH = dummy ] &&
   [ $TRAVIS_PULL_REQUEST = false ] &&
   zola build &&
-  cp public/style.css wiki_html/ &&
-  mv wiki_html/ public/wiki/ &&
   sudo pip install ghp-import &&
   ghp-import -c jeremysavor.dev -n public -b master &&
   git push -fq https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git master

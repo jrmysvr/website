@@ -1,6 +1,0 @@
-= Control Bootcamp =
-
-Working throught this playlist: https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m
-
-== Linearization ==
-    x_dot = A x => z_dot = T z
