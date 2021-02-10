@@ -23,5 +23,5 @@ after_success: |
   zola build &&
   cp keybase.txt public/ &&
   sudo pip install ghp-import &&
-  ghp-import -c jeremysavor.dev -n public -b master &&
+  ghp-import -c jeremy.savor.page -n public -b master &&
   git push -fq https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git master
