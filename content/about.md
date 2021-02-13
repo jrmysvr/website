@@ -11,3 +11,5 @@ I live in Zürich, Switzerland.
 _[github](https://github.com/jrmysvr)_
 
 _[keybase](https://keybase.io/jeremy_savor)_
+
+[recipes](https://recipes.savor.page)
