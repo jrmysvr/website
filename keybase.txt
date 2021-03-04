@@ -4,49 +4,49 @@ https://keybase.io/jeremy_savor
 
 I hereby claim:
 
-  * I am an admin of https://jeremysavor.dev
+  * I am an admin of https://jeremy.savor.page
   * I am jeremy_savor (https://keybase.io/jeremy_savor) on keybase.
-  * I have a public key ASCBzN--POMiDpzbC4qJICMlxbcQ00FxAI8lJMjDgkrm6wo
+  * I have a public key ASDOjZcN37z-qC3aGfSLilaBMhxnUXV-BkVnYGpgFW7Bzgo
 
 To do so, I am signing this object:
 
 {
-  "body": {
-    "key": {
-      "eldest_kid": "012081ccdfbe3ce3220e9cdb0b8a89202325c5b710d34171008f2524c8c3824ae6eb0a",
-      "host": "keybase.io",
-      "kid": "012081ccdfbe3ce3220e9cdb0b8a89202325c5b710d34171008f2524c8c3824ae6eb0a",
-      "uid": "913ed8f4fb8e1c9d876c77c1e5669f19",
-      "username": "jeremy_savor"
+  body: {
+    key: {
+      eldest_kid: 0120ce8d970ddfbcfea82dda19f48b8a5681321c6751757e064567606a60156ec1ce0a,
+      host: keybase.io,
+      kid: 0120ce8d970ddfbcfea82dda19f48b8a5681321c6751757e064567606a60156ec1ce0a,
+      uid: 913ed8f4fb8e1c9d876c77c1e5669f19,
+      username: jeremy_savor
     },
-    "merkle_root": {
-      "ctime": 1600082541,
-      "hash": "01441e86a1b83181b8355a58b8d57717b74778ebf318f57033cda7b4a75f4e2e2157a2aec335cfa4d52d67e8d67366c7f4affe2b3947476c28c435f77c119582",
-      "hash_meta": "0f05b3770b5483c4859cdd63af6f9ddd1e2a47929f539258266f00a8b08aaa0c",
-      "seqno": 17562990
+    merkle_root: {
+      ctime: 1614870170,
+      hash: 108a51e80f7fcbe0db61ed9654c3c3313cae1e294b8c2446ea588d37d35b61eba58bb26f6f1cac20bad403fa60b20c66d87d9fe0e27906b4349e2c3f71add24e,
+      hash_meta: 6d2ba5a6a61755c33456959ce3d5b48a001b9c756fc1048bf91f692d7e21988a,
+      seqno: 19289600
     },
-    "service": {
-      "entropy": "BPno0GsZGDeuGTopOP98y+3p",
-      "hostname": "jeremysavor.dev",
-      "protocol": "https:"
+    service: {
+      entropy: BkZRnz6nXEuOCIUralkNvCha,
+      hostname: jeremy.savor.page,
+      protocol: https:
     },
-    "type": "web_service_binding",
-    "version": 2
+    type: web_service_binding,
+    version: 2
   },
-  "client": {
-    "name": "keybase.io go client",
-    "version": "5.5.1"
+  client: {
+    name: keybase.io go client,
+    version: 5.6.1
   },
-  "ctime": 1600082584,
-  "expire_in": 504576000,
-  "prev": "62b19a98a97418893480e262820911715d2a2788b63d5f935bf8015022cd3f8b",
-  "seqno": 6,
-  "tag": "signature"
+  ctime: 1614870246,
+  expire_in: 504576000,
+  prev: 72a4a2c49f5bf70e8062fa3f7f6c14298b6141321388600021beef4027ad7c72,
+  seqno: 14,
+  tag: signature
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggczfvjzjIg6c2wuKiSAjJcW3ENNBcQCPJSTIw4JK5usKp3BheWxvYWTESpcCBsQgYrGamKl0GIk0gOJiggkRcV0qJ4i2PV+TW/gBUCLNP4vEIL3dpMKvZEvmQ4OoTKCfmtxHD0IM1SDf9UkauVITtOzkAgHCo3NpZ8RAMOlfLgJ5oGqjZCbdyAEqd441fOwGC5Y2iU0n4QwbDwRLidRny+z3eYzVI5HU5ocLy3+TRWiAPZkp9iysc8vXBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMJFW9ZpXewRSit/9M/vcxFpyrPdwCvArS/dp2f+4riTo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgzo2XDd+8/qgt2hn0i4pWgTIcZ1F1fgZFZ2BqYBVuwc4Kp3BheWxvYWTESpcCDsQgcqSixJ9b9w6AYvo/f2wUKYthQTITiGAAIb7vQCetfHLEIN/mdmUqfQnMuQH8IV6+U4wIdewqCPGAFPxG5dQ8PznvAgHCo3NpZ8RALSWeo76xtklInPyCey9Esfn/rDfNtSdYgVs4K7kCS08Nv0lpdN3XjSyRD2fx8YG4mb0Pekwy7cAemaDI4fgvAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKte2j2wi2WQrJ1fdQJoVbHaqVke71jVBkh1ojoSaOIEo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
