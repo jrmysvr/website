@@ -1,11 +1,12 @@
 +++
 title = "Book club"
-description = "Reading books with some friends"
+description = "Reading books with some friends and also my mom"
 +++
 
 ## Current books:
 
-* [Sapiens](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)
+* [The Incal](https://en.wikipedia.org/wiki/The_Incal)
+* [Biomimicry](https://www.books-by-isbn.com/0-06/0060533226-Biomimicry-Janine-M.-Benyus-0-06-053322-6.html)
 * [Molecular Gastronomy](https://en.wikipedia.org/wiki/Herv%C3%A9_This)
 
 ## Read:
@@ -24,3 +25,9 @@ description = "Reading books with some friends"
 * Selections from The Complete Fiction of HP Lovecraft
 * What If?
 * Eating Animals
+* Sapiens
+* Where the crawdads sing
+* Saga
+* The Curious Incident of the Dog in the Night-Time
+* Piranesi
+* The Last Question
