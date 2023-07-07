@@ -30,3 +30,6 @@ _(The current theme is used as a submodule)_
 ### Run
 > zola serve
 
+### CI build with Travis
+_See [.travis.yml](.travis.yml)_
+
