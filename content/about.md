@@ -8,4 +8,4 @@ I live in Zürich, Switzerland.
 
 [My CV](https://rxresu.me/jeremy.savor/mycv)
 
-[keybase](keybase.txt)
+[keybase](/keybase.txt)
