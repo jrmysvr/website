@@ -21,7 +21,7 @@ show_reading_time = false
 home = "home"
 sam_menu = [
     { text = "about", link = "/about" },
-    { text = "github", link = "https://github.com/jrmysvr" },
+    { text = "github", link = "https://github.com/svrj" },
 #    { text = "stuff", link = "/stuff" },
 #    { text = "wiki", link = "/wiki" }
 ]
