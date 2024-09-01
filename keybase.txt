@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/jeremy_savor
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jeremy.savor.page
+  * I am jeremy_savor (https://keybase.io/jeremy_savor) on keybase.
+  * I have a public key with fingerprint 392C 1AF2 B1A7 CF99 E736  610C 5413 8968 E0ED EA2A
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ce8d970ddfbcfea82dda19f48b8a5681321c6751757e064567606a60156ec1ce0a",
+      "fingerprint": "392c1af2b1a7cf99e736610c54138968e0edea2a",
+      "host": "keybase.io",
+      "key_id": "54138968e0edea2a",
+      "kid": "0101f6136560a0d2c4c37150f7d753349cb135db7f18d786a226b035df0fa51374f40a",
+      "uid": "913ed8f4fb8e1c9d876c77c1e5669f19",
+      "username": "jeremy_savor"
+    },
+    "merkle_root": {
+      "ctime": 1695581088,
+      "hash_meta": "8f72cfafae4ae4706ed5d7b0b43e0463d546acb229841bbd154fb46081932e12",
+      "seqno": 24955542
+    },
+    "revoke": {
+      "sig_ids": [
+        "3099374fe85542fc8e90112bcc031687d66a954e1e05834fc8f6378324e19bbc0f"
+      ]
+    },
+    "service": {
+      "hostname": "jeremy.savor.page",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1695581121,
+  "expire_in": 157680000,
+  "prev": "fb229a8577b5665fe47e6bda3f0575982cfde75d6cef265431b7b5bcb1723215",
+  "seqno": 23,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMQDAnicbZN/TFZVGMdfQDNREk1Npi280A/pHZ1z7z0/7ptLc27oVP5QSirp7Z57
+zoXXF96L9315kTGc2orMclZT55JETKOlzIxkotY00chV6mgqaKYhiYZTtCAp61yW
+W27d3e3uPPf7PM/3fM5zDqck+ZIT8h5cVfRTz5WshGOHlpf5ROqrBysV5vAKJVCp
+hMXgRxRzEY0FwyGuBBQAVWAJyg0COLeZZQuTqpyb0LB1yqiJMIWaCi1MECSICIB1
+hAkG2MQAIiwsaAlgKn7FDkUKhVvqhiIxWVYzVAuatsqgSSzbMATRMIbAQjrUqIGp
+AIILU/USi5yolyHNMTMqskOOjMlFcNDe/+jv+gbQxlDDCAMTcNXSLY1ABGzCCdI0
+3bAY1BBnxIaUE4pNVcUMyIgNbBNBjei2Pui7bLCcATXBqa3bjApoGZwSbBFiQYEw
+NmxoeMKocCNmiZDqxcIVJRXBqBl3XKXKr5QIN1wsgq7jxDzAVizkySA2EKIQUCo3
+aUaLgiUiZspsahPVsk3bFLp8CcCCI04YYLomgI41jnRsWkxVDapDxjhE0paOAYWG
+pgqoSi9RsSTiKAFVlx2QrkoLrog7YeF1j4YKJbuoEnhJ0YBheDsV1FPZFhUGgFBl
+lgU0iCnhGJsG0gUUAFFNlwIba4RqqgwZjFnAVgqqvG5uPGQNFvcO6x4I2YMQskvN
+QiF9lbpOzLGcYvm7KBYrjQY8OrGKUk9fLljw30pBFopwOS8yIy7caMiJSFpSeS84
+qEK/IpaWhlwRDHkKRDAF8vH6iLgsaXuQTIoIYfKckC1pCsy4qdkAEWRQiZkLgji2
+hK1ipGuQSSWTo0FUOdToPyQ16dMslDUlvogZK3OFUnXo4KIhvoRk331DE72L5Ese
+nnr3eqW9M2pgGKkdO4ZvT3960bG2xvj5b0YVn2sz+p/s2ZKvfte7y8lv3D9wO4Fu
+S6H+cF54+vXNf3+Q8NClHWzrsg0nptU2Tvn6ZtsXR5auXEbKju9eXne6P2dYz81I
+xsS6ECraufJtok0+3htcvaHhSAmvnBr9KvF28+YD5SmNL058avtbp8fnN6W69X1j
+tV29KzKP/v7yxpM7ZzU01mcVbaled+EoX3Pl+8f3r1840d9SUxKeXNh1K5SZzjZX
+Xn7hxMM7L/bl8EspSZ1jZqzx37cgdcCxk7YZO95/IHf00kDKkoV/ZK2IVwysrs69
+dGdxvD9/zPjrv/jOtHbXqeV951qt2edq+ybgdwvO52ZWczKn/VPxWn3G1rymN+qb
+UP+4xe2Hn5l1Z/aiSUeef2/+vFl7hsKTPesz31ywrPLPuate6YvMDv7w4ZXao5se
+mdl/ct3e44msY+2Buf6a5pwRv36UeC07ryXrbM+h7nl7P++4vzl91bMFBb9N25/d
+cium5BY+N/Kq8+juoPLtroSKjrTOmYoL/hrmn39VD5651pWYVj8luf3HjVPPRwZa
+q7OHb9i7Z8TqptMXR2f1b/JNoXjsl5erajOSbnQ/VrBl7YF5B+uGNPR2BaaXNdSd
+bdcurDiVfqpp0sjcSc2v13R9cuvmvhud+5akdcy4EBzXunHEZz9X5HTOmRD5+InS
+ttEFLetZTWp5eUbrzNZ93f8Aen8KqA==
+=zZb5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jeremy_savor
+
+==================================================================
