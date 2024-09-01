@@ -5,10 +5,6 @@ description = "Reading books with some friends and also my mom"
 
 ## Current books:
 
-* [The Incal](https://en.wikipedia.org/wiki/The_Incal)
-* [Biomimicry](https://www.books-by-isbn.com/0-06/0060533226-Biomimicry-Janine-M.-Benyus-0-06-053322-6.html)
-* [Molecular Gastronomy](https://en.wikipedia.org/wiki/Herv%C3%A9_This)
-
 ## Read:
 
 * Hyperion
@@ -31,3 +27,9 @@ description = "Reading books with some friends and also my mom"
 * The Curious Incident of the Dog in the Night-Time
 * Piranesi
 * The Last Question
+* The Incal
+* Diskworld Book 1
+
+## To Read:
+* [Molecular Gastronomy](https://en.wikipedia.org/wiki/Herv%C3%A9_This)
+* [Biomimicry](https://www.books-by-isbn.com/0-06/0060533226-Biomimicry-Janine-M.-Benyus-0-06-053322-6.html)
